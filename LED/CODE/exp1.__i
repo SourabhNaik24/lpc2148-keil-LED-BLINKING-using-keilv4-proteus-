@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Program Files\ARM\INC" -I "C:\Program Files\ARM\INC\Philips" -o "exp1.o" --omf_browse "exp1.crf" --depend "exp1.d" "EXP1.c"
